@@ -22,13 +22,13 @@ This is a simple shopping app developed as part of the HNG Internship Mobile Tra
 
 ## Screenshots
 
-![Products Screen](path/to/products-screen.png)
+![Products Screen](https://i.ibb.co/3RFmgbx/Screenshot-2024-07-03-184736.png)
 *Products Screen*
 
-![Checkout Screen](path/to/checkout-screen.png)
+![Checkout Screen](https://i.ibb.co/vvhw66p/Screenshot-2024-07-03-184808.png)
 *Checkout Screen*
 
-![Order Success Screen](path/to/order-success-screen.png)
+![Order Success Screen](https://i.ibb.co/ZdHvr1g/Screenshot-2024-07-03-184829.png)
 *Order Success Screen*
 
 ## APK Download
