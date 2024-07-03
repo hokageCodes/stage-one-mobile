@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Men's Tshirt",
+      "title": "Soft White Tees",
+      "image": "https://i.ibb.co/FDDCBrS/e1.jpg",
+      "description": "This is an amazing product",
+      "price": 29.99,
+      "size": "M"
+    },
+    {
+      "id": 2,
+      "name": "Women's Dress",
+      "title": "Dinner Dress",
+      "image": "https://i.ibb.co/BBV9GYG/images-2.jpg",
+      "description": "This is another amazing product",
+      "price": 39.99,
+      "size": "L"
+    },
+    {
+      "id": 3,
+      "name": "Men's watch",
+      "title": "Gold Luxury Watch Men's",
+      "image": "https://i.ibb.co/6PJPpVv/images-3.jpg",
+      "description": "Yet another amazing product",
+      "price": 19.99,
+      "size": "S"
+    },
+    {
+      "id": 4,
+      "name": "Women's Shoe",
+      "title": "Flat Women's Shoe",
+      "image": "https://i.ibb.co/4pjVgHp/Women-Shoes-Fashion-Solid-Color-Mesh-Metal-Chain-Decorative-Platform-Casual-Shoes-White-7-bfb2b081-c.webp",
+      "description": "This is an amazing product",
+      "price": 49.99,
+      "size": "XL"
+    },
+    {
+      "id": 5,
+      "name": "Kiddies Bike",
+      "title": "Kiddies Bike",
+      "image": "https://i.ibb.co/jybjyYk/product-500x500.webp",
+      "description": "This is another amazing product",
+      "price": 59.99,
+      "size": "M"
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "title": "Dan Brown Collection",
+      "image": "https://i.ibb.co/6tvg306/images-4.jpg",
+      "description": "This is another amazing product",
+      "price": 59.99,
+      "size": "M"
+    }
+  ]
+  
