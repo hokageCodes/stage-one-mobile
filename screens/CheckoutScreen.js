@@ -6,7 +6,6 @@ const CheckoutScreen = ({ navigation }) => {
   const [cartItems, setCartItems] = useState([]);
 
   useEffect(() => {
-    // Fetch cart items from AsyncStorage on component mount
     const fetchCartItems = async () => {
       try {
         const storedItems = await AsyncStorage.getItem('cartItems');
@@ -56,7 +55,6 @@ const CheckoutScreen = ({ navigation }) => {
   };
 
   const handleConfirmOrder = () => {
-    // Clear cart and navigate to the success screen
     setCartItems([]);
     saveCartItems([]);
     navigation.navigate('OrderSuccess');
@@ -189,3 +187,5 @@ const styles = StyleSheet.create({
 });
 
 export default CheckoutScreen;
+
+
