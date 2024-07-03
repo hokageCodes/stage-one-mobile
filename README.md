@@ -53,8 +53,13 @@ Follow the steps below to set up and run the application:
    ```bash
    git clone https://github.com/your-username/simple-shopping-app.git
 
-2. Navigate to the Project directory - cd simple-shopping-app
-3. Install the dependencies - npm install
+2. Navigate to the Project directory 
+    ```bash
+    cd simple-shopping-app
+
+3. Install the dependencies
+    ```bash
+    npm install
 
 ### Running the App
 1. Start the Expo development server - npx expo start
